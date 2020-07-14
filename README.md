@@ -2,12 +2,17 @@
 
 A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards and visualisations in Python.
 
+## My World (Image by DATAIKU)
+
+
+
 ## Languages
 
-![Python Expert](https://user-images.githubusercontent.com/9586665/87451131-1dc96f80-c608-11ea-9cf5-a625d7c06a1b.png)
+1. Python.  ![Expert Python](https://img.shields.io/badge/Python-Expert-green)
 
-1. Python
-2. Javascript
+2. Javascript ![Expert Javascript](https://img.shields.io/badge/Javascript-Expert-green)
+
+3. SQL  ![Expert SQL](https://img.shields.io/badge/SQL-Expert-green)
 
 ## Frameworks
 1. ReactJS
@@ -16,6 +21,8 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 4. FastAPI
 5. ExpressJS
 6. Pandas/SkiLearn
+
+
 
 ## DevOps
 
@@ -36,22 +43,3 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 2.  ✨  Data Analytics
 3.  ✨  Machine Learning
 4.  ✨  Data Engineering
-
-
-
-
-
-<!--
-**kilonzi/kilonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
