@@ -2,9 +2,9 @@
 
 A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards and visualisations in Python.
 
-## My World (Image by DATAIKU)
+## A simple view of my world 
 
-
+![The world that I live on](https://user-images.githubusercontent.com/9586665/87455150-aac2f780-c60d-11ea-8ee2-dd5b339b8abe.png)
 
 ## Languages
 
@@ -21,8 +21,6 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 4. FastAPI
 5. ExpressJS
 6. Pandas/SkiLearn
-
-
 
 ## DevOps
 
