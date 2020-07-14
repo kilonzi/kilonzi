@@ -1,6 +1,6 @@
 ## Profile
 
-A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards and visualisations in Python.
+A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards and visualisations in SQL, Python and Javascript
 
 ## A simple view of my world 
 
