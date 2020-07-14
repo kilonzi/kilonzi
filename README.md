@@ -4,7 +4,7 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 
 ## Languages
 
-![Python Expert](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png])
+![Python Expert](https://user-images.githubusercontent.com/9586665/87451131-1dc96f80-c608-11ea-9cf5-a625d7c06a1b.png)
 
 1. Python
 2. Javascript
