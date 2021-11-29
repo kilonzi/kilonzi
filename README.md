@@ -14,6 +14,12 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 
 3. SQL  ![Expert SQL](https://img.shields.io/badge/SQL-Expert-green)
 
+
+## Detect
+
+Check ![Detect Views](https://3f7f-69-173-127-24.ngrok.io)
+
+
 ## Frameworks
 1. ReactJS
 2. VueJS
