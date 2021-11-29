@@ -17,7 +17,7 @@ A highly dedicated data engineer with 9 years of professional experience in desi
 
 ## Detect
 
-Check ![Detect Views](https://3f7f-69-173-127-24.ngrok.io)
+Check ![Detect Views](https://ca08-69-173-127-24.ngrok.io)
 
 
 ## Frameworks
