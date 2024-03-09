@@ -1,0 +1,47 @@
+Here's a sample privacy policy template for your Dereva Platform app. You may need to adjust it to fit your specific requirements and legal obligations:
+
+---
+
+**Privacy Policy for Dereva Platform**
+
+Last updated: 03/08/2023
+
+This privacy policy ("Policy") describes how Dereva Inc ("we", "us", or "our") collects, uses, and shares personal information of users of the Dereva Platform mobile application ("App"). This App is intended for use by [Your Company Name]'s employees and authorized personnel only.
+
+**1. Information We Collect**
+
+We may collect the following types of information when you use our App:
+
+- **Personal Information:** This may include your name, email address, phone number, and any other information you provide when you register or use the App.
+- **Location Information:** We may collect information about your location when you use the App to track your trips and schedule.
+- **Usage Information:** We may collect information about how you use the App, including the features you use, the time spent on the App, and other similar data.
+
+**2. How We Use Your Information**
+
+We use the information we collect for the following purposes:
+
+- To provide, maintain, and improve the App and its features.
+- To personalize your experience and deliver content and features that match your interests and needs.
+- To communicate with you, including sending updates, alerts, and support messages.
+- For security purposes, to protect against fraud and unauthorized access to the App.
+
+**3. Sharing Your Information**
+
+We may share your information with third parties in the following circumstances:
+
+- With service providers who assist us in operating the App and conducting our business.
+- With company affiliates and subsidiaries for internal business purposes.
+- When required by law or to protect our rights and safety or the rights and safety of others.
+- In connection with a merger, acquisition, or sale of assets of our company.
+
+**4. Security**
+
+We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction. However, no internet or mobile network is entirely secure, and we cannot guarantee the security of your information.
+
+**5. Changes to This Policy**
+
+We may update this Policy from time to time. We will notify you of any changes by posting the new Policy on this page and updating the "Last Updated" date.
+
+**6. Contact Us**
+
+If you have any questions or concerns about this Policy or our data practices, please contact us at legal@dereva.co
