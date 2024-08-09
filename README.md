@@ -1,8 +1,8 @@
 ## Profile
 
-A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards and visualisations in SQL, Python and Javascript
+A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards, and visualizations using a wide range of technologies including SQL, Python, Java, and JavaScript. Proficient in major frameworks like Spring, Hibernate, Django, Flask, and React, and well-versed in modern DevOps practices including containerization with Docker and orchestration with Kubernetes. My expertise extends to developing scalable, high-performance data pipelines and applications that deliver actionable insights.
 
-## A simple view of my world 
+## Tool stack
 
 ![The world that I live on](https://user-images.githubusercontent.com/9586665/87455150-aac2f780-c60d-11ea-8ee2-dd5b339b8abe.png)
 
