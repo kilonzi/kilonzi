@@ -1,42 +1,43 @@
-## Profile
+## 🌟 Senior Software/Data Engineer | Machine Learning Engineer
 
-A highly dedicated data engineer with 9 years of professional experience in designing and building data applications, dashboards, and visualizations using a wide range of technologies including SQL, Python, Java, and JavaScript. Proficient in major frameworks like Spring, Hibernate, Django, Flask, and React, and well-versed in modern DevOps practices including containerization with Docker and orchestration with Kubernetes. My expertise extends to developing scalable, high-performance data pipelines and applications that deliver actionable insights.
+With over 9 years of professional experience, I specialize in crafting innovative, scalable, and high-performance data-driven solutions. My deep expertise spans software engineering, machine learning, and data architecture, where I’ve built advanced systems that translate complex data into actionable insights.
 
-## Tool stack
+I’m proficient in a wide range of technologies including Python, Java, and SQL, and have extensive experience with frameworks like Spring, Hibernate, Django, Flask, and React. My skill set extends to modern DevOps practices such as containerization with Docker and orchestration with Kubernetes. From developing seamless machine learning models to building data pipelines that handle large-scale workloads, I aim to solve the most challenging technical problems with precision and efficiency.
 
-![The world that I live on](https://user-images.githubusercontent.com/9586665/87455150-aac2f780-c60d-11ea-8ee2-dd5b339b8abe.png)
+---
 
-## Languages
+## **Tech Stack**
 
-1. Python.  ![Expert Python](https://img.shields.io/badge/Python-Expert-green)
+### **Languages**
+- **Python:** Expert level
+- **Java:** Professional level
+- **SQL:** Expert level
 
-2. Javascript ![Expert Javascript](https://img.shields.io/badge/Javascript-Expert-green)
+### **Frameworks**
+- VueJS
+- Django
+- Spring
+- FastAPI
 
-3. SQL  ![Expert SQL](https://img.shields.io/badge/SQL-Expert-green)
+### **DevOps & Cloud**
+- Docker | Kubernetes
+- AWS | GCP
+- CircleCI | GitHub Actions
 
-## Frameworks
-1. ReactJS
-2. VueJS
-3. Flask
-4. FastAPI
-6. Pandas/SkiLearn
+### **Tools**
+- DataIku
+- Tableau
+- Metabase
+- Jupyter Notebooks
 
-## DevOps
+---
 
-1. Docker
-2. AWS
-3. GCP
-4. CircleCI
-5. Github Actions
+## **Areas of Expertise**
+- **✨ Data Architecture Design:** Building robust data infrastructures to support large-scale applications.
+- **✨ Data Analytics:** Delivering insights from complex datasets using advanced analytics.
+- **✨ Machine Learning:** Designing and deploying intelligent systems with models that learn and adapt.
+- **✨ Data Engineering:** Developing scalable data pipelines, ETL workflows, and integrations.
 
-## Tools
-1. DataIku
-2. Tableau
-3. Metabase
-4. Notebook
+---
 
-## Areas of Expertise
-1.  ✨  Data Architecture Design
-2.  ✨  Data Analytics
-3.  ✨  Machine Learning
-4.  ✨  Data Engineering
+I thrive at the intersection of data, engineering, and machine learning, creating solutions that push boundaries and deliver impact. Let's collaborate on the next big challenge!
